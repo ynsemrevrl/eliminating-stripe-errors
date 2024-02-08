@@ -1,0 +1,6 @@
+model:
+    path: "./models"
+    single_model_path: "./models/model_0512_40epoch_04k.h5py"
+inference:
+    path: "./data"
+    save_path: "./saves"

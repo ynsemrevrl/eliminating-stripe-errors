@@ -63,16 +63,16 @@ In the `inference.ipynb` code, models with input sizes of 512x512 perform infere
 | [A2 Dataset](https://drive.google.com/file/d/1JxQfrr7Mj2gSkjrdGsoIavyzZF-VT0Eh/view?usp=sharing) | 512x512 | 8 bit | Pan | Landsat 8 ETM+ |
 | [A3 Dataset](https://drive.google.com/file/d/1GNlXnxLD8IPWPgKTuDieYG94zISrVTHE/view?usp=sharing) | 1024x1024 | 8 bit | Pan | Landsat 8 ETM+ |
 | [A4 Dataset](https://drive.google.com/file/d/1llzN29mhx90FIlxNjMmsiNqVC62oOf1J/view?usp=sharing) | 1024x1024 | 8 bit | Pan | Landsat 8 ETM+ |
-| [A5 Dataset](https://drive.google.com/file/d/1zAg3tO9nyn5MNetcYlAMPKtQVv2JJCms/view?usp=sharing) | 512x512 | 8 bit | Pan | Landsat 7 SLC-off |
+| [A5 Dataset](https://drive.google.com/file/d/1zAg3tO9nyn5MNetcYlAMPKtQVv2JJCms/view?usp=sharing) | 1024x1024 | 8 bit | Pan | Landsat 7 SLC-off |
 | [Test Dataset](https://drive.google.com/file/d/1pWAg5TDK6xS4iIVDcwU7gGB28Z9Fd97e/view?usp=sharing) | 1024x1024 | 8 bit | Pan | Landsat 8 ETM+ |
 
 ---
 
 ## Example
 
-| Original | Inference |
+| Original (1024x1024) | Model A2 Inference (1024x1024) |
 |----------|-----------|
-| ![Original](./assets/L7_original.png) | ![Inference](./assets/L7_inference.png) |
+| ![Original](./assets/L7_original.png) | ![Model A2 Inference](./assets/L7_inference.png) |
 
 ## Citation
 ```
